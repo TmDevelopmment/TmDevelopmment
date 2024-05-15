@@ -1,5 +1,5 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
-<h1 align="center">Hi 👋, I'm Tehan Matthew</h1>
+<h1 align="center">Hi 👋, I'm ZenX</h1>
 <h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
 
@@ -9,11 +9,7 @@
   
 - 🌱 I’m currently learning **Coding Language**
 
-- 🧑‍🎓 I’m an Undergraduate at **Java Institute**
-
 - 💬 Ask me about **FiveM developments ,Web development and Mlo Designing | OOC**
-
-- 📫 How to reach me **TM_Developing.lol](TM_Developing.lol)**
   
 - ⚡ Fun fact **Call me as KD**
 
