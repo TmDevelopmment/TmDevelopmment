@@ -9,7 +9,7 @@
   
 - 🌱 I’m currently learning **Coding Language**
 
-- 💬 Ask me about **FiveM developments ,Web development and Mlo Designing | OOC**
+- 💬 Ask me about **FiveM developments ,Web development and Mlo Designing**
   
 - ⚡ Fun fact **Call me as KD**
 
