@@ -10,8 +10,6 @@
 - 🌱 I’m currently learning **Coding Language**
 
 - 💬 Ask me about **FiveM developments ,Web development and Mlo Designing**
-  
-- ⚡ Fun fact **Call me as KD**
 
 </td>
 <td width="50%" align="center">
